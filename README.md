@@ -6,19 +6,18 @@ This repository contains three projects exploring the application of deep learni
 
 This project focuses on implementing and analyzing a Python-based Multilayer Perceptron (MLP) algorithm to predict diabetes using the Pima Indians Diabetes Database. The report covers the MLP algorithm's foundations, activation functions, and layer configurations. Additionally, it discusses the strengths, limitations, and potential improvements of this approach in the context of diabetes prediction.
 
-[Diabetes Prediction Report](diabetes_prediction.pdf)
 
 ## 2. Image Classification using Convolutional Neural Networks (CNNs)
 
 In this project, we explore the capabilities of Convolutional Neural Networks (CNNs) for image classification tasks. The report delves into the architectural intricacies of CNNs, their functionality, and nuances of training. We utilize the well-established CIFAR-10 dataset as a benchmark for our analysis. The report also discusses the potential for advancement in image classification by implementing and comparing different CNN architectures.
 
-[Image Classification Report](Image_classification.pdf)
+
 
 ## 3. Stock Price Prediction using Recurrent Neural Networks (RNNs)
 
 This study investigates the application of Recurrent Neural Networks (RNNs) for stock price prediction. We compare various RNN models, including Vanilla RNNs, LSTMs, and GRUs, using a decade-long daily dataset sourced from Yahoo Finance. The report evaluates the strengths and weaknesses of different RNN variants and provides insights into their predictive performance using common metrics like Root Mean Squared Error (RMSE).
 
-[Stock Price Prediction Report](Stock_Price_Prediction.pdf)
+
 
 ## Getting Started
 
